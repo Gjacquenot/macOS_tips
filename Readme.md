@@ -14,10 +14,13 @@ This `Readme` contains some tips to use your `macOS`
 
 # Keyboard actions
 
-| Action         | Keyboard         |
-|----------------|------------------|
-| Go to desktop  | Fn+F11           |
-| Delete a file  | Fn+Backspace     |
+| Action                    | Keyboard                  |
+|---------------------------|---------------------------|
+| Go to desktop             | Fn + F11                  |
+| Delete a file             | Fn + Backspace            |
+| Take a screenshot         | Command (⌘) + Shift + 3   |
+| Take a partial screenshot | Command (⌘) + Shift + 4   |
+
 
 # Install a package manager
 
