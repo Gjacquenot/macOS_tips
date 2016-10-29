@@ -5,7 +5,7 @@ This `Readme` contains some tips to use your `macOS`
 |    | Keyboard         |
 |----|------------------|
 | \\ | Shift + Alt + /  |
-| \| | Shift + Alt + n  |
+| \| | Shift + Alt + l  |
 | {  | Alt + (          |
 | }  | Alt + )          |
 | [  | Shift + Alt + (  | 
